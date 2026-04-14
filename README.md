@@ -2,10 +2,6 @@ LAB7
 Name : Wajdi Essam
 Group: 6MY02
 
-Here is a concise summary designed for a GitHub `README.md` file:
-
----
-
 # Logistic Regression - Advertisement Click Prediction
 
 ## Project Overview
